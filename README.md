@@ -1,59 +1,62 @@
 <h1 align="center">👋 Salut, moi c’est Cédric</h1>
-<h3 align="center">Développeur IA & Full-Stack — Passionné par le code, la tech et l’apprentissage continu</h3>
+
+<p align="center">
+  <b>Développeur IA & Full-Stack • En route vers le Titre Pro CDA • BTS SIO SLAM</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/cedric-prin-dev/">LinkedIn</a> •
+  <a href="https://cedric-prin-portfolio.vercel.app/">Portfolio</a>
+</p>
 
 ---
 
 ## 🚀 À propos de moi
 
-🎓 Actuellement en **POEI Développeur IA**, en route vers un **Titre Professionnel Concepteur Développeur d’Applications (Bac+3)**.  
-🎓 Diplômé d'un **BTS SIO option SLAM**.  
+Actuellement en **POEI Développeur IA** puis futur apprenant du **Titre Professionnel Concepteur Développeur d’Applications (Bac +3)**, je suis passionné par le développement et l’IA.  
+J’ai déjà obtenu mon **BTS SIO option SLAM**, ce qui m’a formé aux bases solides du développement web, applicatif et à la gestion de projets.
 
-💻 J'ai déjà travaillé avec plusieurs frameworks modernes et stacks variées :
-
-- **Backend :** Node.js, Express, Python, Django, C#, .NET, POO  
-- **Frontend :** React, Angular, JavaScript, TypeScript  
-- **IA / Data :** Python, automatisation  
-- **Autres :** Git, MVC, SQL, bonnes pratiques pro  
-
-🧠 J’aime apprendre, créer, améliorer et concevoir des applications utiles.  
-Mon objectif : monter en expertise dans l’IA, les architectures modernes et le développement d’applications avancées.
+Je suis motivé, curieux, et j’adore apprendre en construisant des projets concrets et utiles.
 
 ---
 
-## 🌐 Mon portfolio
+## 🧠 Compétences
 
-> 🔒 Le code source est privé pour éviter le plagiat  
-> ✨ Version en ligne → https://cedric-prin-portfolio.vercel.app/
+### 🔹 **Développement Web & Frameworks**
+- **JavaScript** (Node.js, React, Angular)
+- **Python** (Django)
+- **PHP** (MVC, MySQL)
+- **C# / .NET**
+- **POO & Architecture logicielle**
+- **HTML • CSS • Tailwind**
+
+### 🔹 **IA & Data**
+- Python pour l’analyse et l’automatisation  
+- Bases en IA / Data science (en cours dans ma POEI)
+
+### 🔹 **Outils & Workflow**
+- Git & GitHub
+- Méthodes Agiles  
+- Hébergement (Vercel, Netlify)
 
 ---
-  
-## 🛠️ Technologies principales
 
-| Domaine | Technos |
-|--------|---------|
-| 💻 Backend | Node.js, Express, C#, .NET, Django |
-| 🎨 Frontend | React, Angular, TypeScript, JavaScript |
-| 🧠 IA / Data | Python |
-| 🗄️ BDD | SQL, MySQL |
-| 📦 Autres | Git, MVC, API REST |
+## 💼 Projets mis en avant
+
+### 🌐 **Portfolio personnel**
+🔒 *Code privé pour éviter le plagiat*  
+➡️ Démonstration : **https://cedric-prin-portfolio.vercel.app/**  
+Un site moderne, responsive et animé présentant mes compétences, mes projets et mon parcours.
 
 ---
 
 ## 📫 Me contacter
-
-📧 **cedric.prin.dev@gmail.com**  
-🌐 **Portfolio :** https://cedric-prin-portfolio.vercel.app/  
-🔗 **LinkedIn :** https://www.linkedin.com/in/cedric-prin-dev/
+📧 **prin.cedric2@gmail.com**  
+🔗 **LinkedIn :** https://www.linkedin.com/in/cedric-prin-dev/  
 
 ---
 
-## 🧭 Objectifs actuels
-
-- Approfondir l’IA et les architectures modernes  
-- Développer un vrai projet complet autour de l’IA (NLP, Computer Vision…)  
-- Renforcer mes compétences en DevOps & outils pro  
-- Construire ma carrière dans le développement avancé & l’intelligence artificielle
-
----
-
-⭐ *Merci d’être passé ! N’hésite pas à me suivre ou à me contacter pour discuter tech, projets ou opportunités.*
+<p align="center">
+  Merci d’être passé sur mon profil 👋  
+  <br>✨ Toujours en train d’apprendre. Toujours motivé. ✨
+</p>
