@@ -2,7 +2,6 @@
 
 # 👋 Salut, moi c’est **Cédric**
 
-### 💻 Concepteur Développeur d’Applications (en devenir)  
 ### 🚀 Développeur IA & Full-Stack • BTS SIO SLAM
 
 <br>
