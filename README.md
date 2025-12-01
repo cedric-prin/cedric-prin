@@ -51,7 +51,7 @@ Un site moderne, responsive et animé présentant mes compétences, mes projets 
 ---
 
 ## 📫 Me contacter
-📧 **prin.cedric2@gmail.com**  
+📧 **prin.cedric.34@gmail.com**  
 🔗 **LinkedIn :** https://www.linkedin.com/in/cedric-prin-dev/  
 
 ---
