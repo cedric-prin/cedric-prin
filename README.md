@@ -1,18 +1,27 @@
-# 👋 Salut, moi c’est Cédric
+<div align="center">
 
-## Développeur IA & Full-Stack • En route vers le Titre Pro CDA • BTS SIO SLAM
+# 👋 Salut, moi c’est **Cédric**
+
+### 💻 Concepteur Développeur d’Applications (en devenir)  
+### 🚀 Développeur IA & Full-Stack • BTS SIO SLAM
+
+<br>
 
 [🔗 LinkedIn](https://www.linkedin.com/in/cedric-prin-dev/) • [🌍 Portfolio](https://cedric-prin-portfolio.vercel.app/)
+
+</div>
 
 ---
 
 ## 🚀 À propos de moi
 
-Actuellement en **POEI Développeur IA**, puis futur apprenant du **Titre Professionnel Concepteur Développeur d’Applications (Bac +3)**, je suis passionné par le développement, l’IA et la création de solutions utiles.
+Actuellement en **POEI Développeur IA** et prochainement en **Titre Pro Concepteur Développeur d’Applications**, je suis passionné par :
 
-J’ai également obtenu un **BTS SIO option SLAM**, qui m’a permis d’acquérir des bases solides en développement web, applicatif et en gestion de projets.
+- le développement web et logiciel  
+- l’intelligence artificielle  
+- la création de solutions modernes et utiles  
 
-Je suis motivé, curieux, et j’adore apprendre en construisant des projets concrets.
+J’ai obtenu un **BTS SIO SLAM**, où j’ai construit des projets solides mêlant dev, architecture MVC, et gestion de base de données.
 
 ---
 
@@ -23,15 +32,14 @@ Je suis motivé, curieux, et j’adore apprendre en construisant des projets con
 - Python (**Django**)  
 - PHP (MVC, MySQL)  
 - C# / **.NET**  
-- POO • Architecture logicielle  
 - HTML • CSS • Tailwind  
 
 ### 🔹 IA & Data
-- Python pour l’analyse et l’automatisation  
-- Base en IA / Data Science (en cours dans ma POEI)
+- Automatisation Python  
+- Bases IA/Data Science  
 
 ### 🔹 Outils & Workflow
-- Git & GitHub  
+- Git / GitHub  
 - Méthodes Agiles  
 - Hébergement : Vercel, Netlify  
 
@@ -40,28 +48,21 @@ Je suis motivé, curieux, et j’adore apprendre en construisant des projets con
 ## 💼 Projets mis en avant
 
 ### 🌐 **Portfolio personnel**
-🔒 Code privé pour éviter le plagiat  
-➡️ Démonstration : https://cedric-prin-portfolio.vercel.app/  
-Un site moderne, responsive et animé présentant mes compétences, mes projets et mon parcours.
+Site moderne & responsive présentant mes compétences.  
+➡️ https://cedric-prin-portfolio.vercel.app/  
+*(Code privé pour éviter le plagiat)*
 
 ---
 
 ### 🛍️ **ShopBackOffice — Gestion de boutique (C# / SQL Server)**
-Un **back-office complet** permettant de gérer une boutique via une base de données SQL Server.  
-Ce projet met en avant mes compétences en :
-- C# / .NET  
-- SQL avancé (procédures, fonctions, triggers)  
-- Architecture logicielle  
-- Gestion CRUD complète  
-- Interface utilisateur et gestion de données en temps réel  
 
-Fonctionnalités principales :
-- Gestion des clients, produits, catégories, commandes  
-- Ajout / suppression / mise à jour des données  
-- Affichage dynamique depuis la BDD  
-- Procédures stockées + triggers pour automatiser les opérations  
+Back-office complet permettant de gérer produits, catégories, clients et commandes.
 
-📁 Screenshots et documentation disponibles dans le dossier **/assets**.
+Fonctionnalités :
+- CRUD complet  
+- Procédures stockées, fonctions, triggers  
+- Architecture propre (C#, SQL Server)  
+- Gestion en temps réel de la base  
 
 ---
 
@@ -72,4 +73,8 @@ Fonctionnalités principales :
 
 ---
 
-### ✨ Toujours en train d’apprendre. Toujours motivé. ✨
+<div align="center">
+
+✨ *Toujours en train d’apprendre. Toujours motivé.* ✨
+
+</div>
