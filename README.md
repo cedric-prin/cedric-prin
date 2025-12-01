@@ -2,7 +2,7 @@
 
 # 👋 Salut, moi c’est **Cédric**
 
-### 🚀 Développeur IA & Full-Stack • BTS SIO SLAM
+### 🚀 Développeur IA & Full-Stack
 
 
 [🔗 LinkedIn](https://www.linkedin.com/in/cedric-prin-dev/) • [🌍 Portfolio](https://cedric-prin-portfolio.vercel.app/)
