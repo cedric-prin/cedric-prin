@@ -4,7 +4,6 @@
 
 ### 🚀 Développeur IA & Full-Stack • BTS SIO SLAM
 
-<br>
 
 [🔗 LinkedIn](https://www.linkedin.com/in/cedric-prin-dev/) • [🌍 Portfolio](https://cedric-prin-portfolio.vercel.app/)
 
