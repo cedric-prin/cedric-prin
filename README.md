@@ -1,11 +1,11 @@
 <div align="center">
 
 # 👋 Salut, moi c’est **Cédric**
+### 🚀 Développeur IA & Full-Stack  
+🌱 Toujours en train d'apprendre
 
-### 🚀 Développeur IA & Full-Stack
-
-
-[🔗 LinkedIn](https://www.linkedin.com/in/cedric-prin-dev/) • [🌍 Portfolio](https://cedric-prin-portfolio.vercel.app/)
+🌍 **Portfolio** : https://cedric-prin-portfolio.vercel.app/  
+🔗 **LinkedIn** : https://www.linkedin.com/in/cedric-prin-dev/
 
 </div>
 
@@ -13,66 +13,106 @@
 
 ## 🚀 À propos de moi
 
-Actuellement en **POEI Développeur IA** et prochainement en **Titre Pro Concepteur Développeur d’Applications**, je suis passionné par :
+Actuellement en **POEI Développeur IA**, je m’oriente vers le **Titre Professionnel Concepteur Développeur d’Applications**.
 
-- le développement web et logiciel  
-- l’intelligence artificielle  
-- la création de solutions modernes et utiles  
+Passionné par :
+- le **développement web & logiciel**,  
+- l’**IA** et l’automatisation,  
+- la création d’applications **utiles, propres et structurées**,  
 
-J’ai obtenu un **BTS SIO SLAM**, où j’ai construit des projets solides mêlant dev, architecture MVC, et gestion de base de données.
+j’ai validé un **BTS SIO SLAM** qui m’a donné de solides bases en :
+- architecture **MVC**
+- gestion de bases de données
+- programmation orientée objet  
+- conception logicielle
+
+Je suis motivé, curieux, impliqué et je progresse vite — toujours en mouvement.
 
 ---
 
-## 🧠 Compétences
+## 🧠 Compétences techniques
 
-### 🔹 Développement Web & Frameworks
-- JavaScript (**Node.js**, **React**, **Angular**)  
-- Python (**Django**)  
-- PHP (MVC, MySQL)  
-- C# / **.NET**  
-- HTML • CSS • Tailwind  
+### 🔹 Développement Web & Logiciel
+- **JavaScript** : React, Node.js, Angular  
+- **Python** : Django, scripting, automatisation  
+- **PHP** : MVC, MySQL, applications dynamiques  
+- **C# / .NET**  
+- **HTML • CSS • Tailwind • Bootstrap**
 
 ### 🔹 IA & Data
-- Automatisation Python  
-- Bases IA/Data Science  
+- Scripts d’automatisation Python  
+- Bases IA / Data Science  
+- Manipulation & analyse de données  
 
 ### 🔹 Outils & Workflow
-- Git / GitHub  
+- Git & GitHub  
 - Méthodes Agiles  
-- Hébergement : Vercel, Netlify  
+- CI/CD (notions DevOps)  
+- Hébergement : **Vercel**, **Netlify**
 
 ---
 
 ## 💼 Projets mis en avant
 
 ### 🌐 **Portfolio personnel**
-Site moderne & responsive présentant mes compétences.  
-➡️ https://cedric-prin-portfolio.vercel.app/  
+Site moderne, responsive et animé, présentant mes compétences et mes projets.  
+👉 https://cedric-prin-portfolio.vercel.app/  
 *(Code privé pour éviter le plagiat)*
 
 ---
 
-### 🛍️ **ShopBackOffice — Gestion de boutique (C# / SQL Server)**
+### 🛒 **Prin Boutique — E-commerce complet (PHP / MySQL / MVC)**  
+✨ **Projet majeur :** Front + Back-Office + Base de données avancée
 
-Back-office complet permettant de gérer produits, catégories, clients et commandes.
+**Fonctionnalités côté client :**
+- Panier dynamique  
+- Commandes multi-étapes  
+- Livraison classique + point relais  
+- Gestion du profil & historique  
 
-Fonctionnalités :
-- CRUD complet  
-- Procédures stockées, fonctions, triggers  
-- Architecture propre (C#, SQL Server)  
-- Gestion en temps réel de la base  
+**Côté administrateur :**
+- Gestion catégories / produits / fournisseurs  
+- Gestion commandes  
+- Dashboard + statistiques  
+- CRUD complet et sécurisé  
+
+**Base de données :**
+- Procédures stockées  
+- Fonctions SQL  
+- Triggers (stock, commandes…)  
+- Tables relationnelles optimisées  
+
+➡️ Projet structuré en **MVC**  
+➡️ Dossier **docs/** avec captures + schémas + BDD
+
+---
+
+### 🛍️ **ShopBackOffice — Gestion de boutique (C# / SQL Server)**  
+Application back-office professionnelle pour gérer une boutique.
+
+**Fonctionnalités :**
+- CRUD complet (produits, catégories, clients, commandes)  
+- SQL Server : procédures, fonctions, triggers  
+- Architecture propre et modulaire en **C#**  
+- Gestion centralisée des données  
+
+**Ce projet met en avant :**
+- maîtrise du **C# / .NET**  
+- utilisation avancée de **SQL Server**  
+- capacité à structurer une application robuste et scalable  
 
 ---
 
 ## 📫 Me contacter
 
-📧 prin.cedric.34@gmail.com  
-🔗 LinkedIn : https://www.linkedin.com/in/cedric-prin-dev/
+📧 **prin.cedric.34@gmail.com**  
+🔗 **LinkedIn** : https://www.linkedin.com/in/cedric-prin-dev/
 
 ---
 
 <div align="center">
 
-✨ *Toujours en train d’apprendre. Toujours motivé.* ✨
+✨ *Toujours motivé. Toujours en progression.* ✨  
+**Merci d’avoir visité mon GitHub !**
 
 </div>
