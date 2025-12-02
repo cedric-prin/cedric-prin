@@ -105,7 +105,7 @@ Application back-office professionnelle pour gérer une boutique.
 
 ## 📫 Me contacter
 
-📧 **Gmail** : prin.cedric.34@gmail.com
+📧 **Gmail** : prin.cedric.34@gmail.com**  
 🔗 **LinkedIn** : https://www.linkedin.com/in/cedric-prin-dev/
 
 ---
