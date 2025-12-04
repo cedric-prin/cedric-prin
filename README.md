@@ -32,58 +32,58 @@ Je suis motivé, curieux, impliqué et je progresse vite — toujours en mouveme
 
 ## 🧠 Compétences techniques
 
+
 ### 🔹 Développement Web & Logiciel
 - **JavaScript** : React, Node.js, Angular  
-- **Python** : Django, scripting, automatisation  
-- **PHP** : MVC, MySQL, applications dynamiques  
+- **Python** : Django, automatisation & scripts  
+- **PHP** : MVC, MySQL, applications web dynamiques  
 - **C# / .NET**  
-- **HTML • CSS • Tailwind • Bootstrap**
+- **HTML • CSS • SCSS • Tailwind • Bootstrap**
 
 ### 🔹 IA & Data
-- Scripts d’automatisation Python  
-- Bases IA / Data Science  
-- Manipulation & analyse de données  
+- Automatisation Python  
+- Notions IA / Machine Learning  
+- Manipulation, nettoyage & analyse de données  
 
 ### 🔹 Outils & Workflow
-- Git & GitHub  
-- Méthodes Agiles  
-- CI/CD (notions DevOps)  
-- Hébergement : **Vercel**, **Netlify**
+- Git & GitHub (GitFlow, commits propres, PR)  
+- CI/CD (GitHub Actions)  
+- Docker & Docker Compose  
+- Hébergement : **Vercel**, **Netlify**, **Docker local**
 
 ---
 
 ## 💼 Projets mis en avant
 
-### 🌐 **Portfolio personnel**
-Site moderne, responsive et animé, présentant mes compétences et mes projets.  
-👉 https://cedric-prin-portfolio.vercel.app/  
-*(Code privé pour éviter le plagiat)*
-
----
-
 ### 🛒 **Prin Boutique — E-commerce complet (PHP / MySQL / MVC)**  
 ✨ **Projet majeur :** Front + Back-Office + Base de données avancée
 
-**Fonctionnalités côté client :**
-- Panier dynamique  
-- Commandes multi-étapes  
-- Livraison classique + point relais  
-- Gestion du profil & historique  
+#### ✅ Fonctionnalités côté client
+- Système de panier fluide  
+- Tunnel de commande multi-étapes  
+- Livraison domicile + point relais  
+- Profil utilisateur + historique des commandes  
+- Authentification sécurisée (sessions, validations)
 
-**Côté administrateur :**
-- Gestion catégories / produits / fournisseurs  
-- Gestion commandes  
+#### 🛠️ Côté administrateur
+- Gestion complète des produits, catégories, fournisseurs  
+- Gestion des commandes  
 - Dashboard + statistiques  
-- CRUD complet et sécurisé  
+- Architecture MVC claire et modulaire  
+- Services, Exceptions, Validators, Controllers séparés
 
-**Base de données :**
+#### 🗄️ Base de données avancée
 - Procédures stockées  
 - Fonctions SQL  
-- Triggers (stock, commandes…)  
-- Tables relationnelles optimisées  
+- **Triggers** (stocks, commandes, cohérence)  
+- Clés étrangères, contraintes, index  
+- Schéma propre et documenté
 
-➡️ Projet structuré en **MVC**  
-➡️ Dossier **docs/** avec captures + schémas + BDD
+#### 🐳 DevOps & Qualité
+- **Dockerisation complète** (Apache, PHP, MariaDB)  
+- **CI/CD GitHub Actions** avec tests PHPUnit  
+- Readmes internes (Services / Validation)  
+- Structure de projet professionnelle
 
 ---
 
@@ -100,6 +100,13 @@ Application back-office professionnelle pour gérer une boutique.
 - maîtrise du **C# / .NET**  
 - utilisation avancée de **SQL Server**  
 - capacité à structurer une application robuste et scalable  
+
+---
+
+### 🌐 **Portfolio personnel**
+Site moderne, responsive et animé, présentant mes compétences et mes projets.  
+👉 https://cedric-prin-portfolio.vercel.app/  
+*(Code privé pour éviter le plagiat)*
 
 ---
 
